@@ -6,13 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    ""
-  ],
+  "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tommydreamer57/mitosisjs"
+    "url": "https://github.com/tommydreamer57/mitosisjs.git"
   },
   "author": "Thomas Lowry <minilao94@yahoo.com> (https://mitosisjs.io)",
+  "homepage": "htttps://github.com/tommydreamer57/mitosisjs",
   "license": "ISC"
 }
